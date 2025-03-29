@@ -9,9 +9,9 @@ ii)colab
 
 # Program:
 
-import matplotlib.pyplot as plt
+~~~
+ import matplotlib.pyplot as plt
 import numpy as np
-
 sampling_rate = 5000  # Sampling rate (samples per second)
 frequency = 50  # Frequency of the message signal (analog signal)
 duration = 0.1  # Duration of the signal in seconds
@@ -61,6 +61,7 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
+~~~
 
 # Output Waveform:
 ![image](https://github.com/user-attachments/assets/971a3824-8c8a-444d-8174-aacd72e5c00b)
