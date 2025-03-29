@@ -66,16 +66,8 @@ plt.show()
 # Output Waveform:
 ![image](https://github.com/user-attachments/assets/971a3824-8c8a-444d-8174-aacd72e5c00b)
 
-# RESULT:
+# Results:
+
 The reconstructed signal closely resembles the original input signal with minimal distortion.
 
 
-
-
-
-
-
-
-
-
-# Results:
